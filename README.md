@@ -2,7 +2,7 @@
 Projeto da disciplina de Introdução a Ciência de Dados.
 
 |Vinicius Freitas|
-|ALUNO X|
-|ALUNO Y|
+|ALUNO Gabriel de Lucca Vieira|
+|ALUNO Jesus|
 
-O trabalho trata sobre (#tópico#) e sobre como (#perguntas#)
+O trabalho trata sobre (tópico) e sobre como (perguntas)...
