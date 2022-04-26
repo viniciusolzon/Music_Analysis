@@ -1,11 +1,13 @@
      Projeto-Final-ICD
-Projeto da disciplina de Introdução a Ciência de Dados.
+Projeto da disciplina de Introdução a Ciência de Dados -
           Professor Yuri Malheiros
 
      Integrantes
-|   Vinicius Freitas          |
-|   Gabriel de Lucca Vieira   |
-|   Jose Jesus                |
+|   Vinicius Freitas Schiavinato Olzon  |     
+
+|   Gabriel de Lucca Vieira             |
+
+|   Jose Jesus                          |
 
      Descrição
 O projeto trata sobre o conjunto de dados das músicas mais tocadas na plataforma de streaming Spotify e seus respectivos dados nos anos entre 2010 e 2019, tal como estuda os dados de músicas lançadas entre 1950 e 2019. Esses dados são capazes de gerar diversas perguntas e respostas, o que serão convertidos para informações a partir do tratamento, análise e processamento desses dados.
