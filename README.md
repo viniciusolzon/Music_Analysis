@@ -18,6 +18,8 @@ O projeto trata sobre o conjunto de dados das músicas mais tocadas na plataform
   Com base no índice de popularidade das músicas, qual é o índice de correlação mais forte/fraca quando comparado com as demais características musicais ?
   
   Com base nos índices de bom-humor e violência verbal das músicas, qual a palavra que mais/menos tendem a aparecer nas letras dessas músicas ?
+  
+  Quais dados apresentam correlações negativas entre si ?
        
      Datasets Utilizados
 https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019
