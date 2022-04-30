@@ -1,6 +1,6 @@
      Projeto-Final-ICD
 Projeto da disciplina de Introdução a Ciência de Dados
-     PROFESSOR
+     *Professor
 Yuri Malheiros
 
      Integrantes
