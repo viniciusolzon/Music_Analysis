@@ -3,7 +3,7 @@ Projeto da disciplina de Introdução a Ciência de Dados
 ## Integrantes
 ### Professor
      |   Yuri Malheiros                      |
-###Alunos
+### Alunos
      |   Vinicius Freitas Schiavinato Olzon  |
      |   Gabriel de Lucca Vieira             |
      |   Jose Jesus                          |
