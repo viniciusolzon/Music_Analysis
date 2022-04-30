@@ -1,22 +1,18 @@
-     Projeto-Final-ICD
+# Projeto-Final-ICD
 Projeto da disciplina de Introdução a Ciência de Dados
-
+## Integrantes
 ### Professor
-## Professor
-# Professor
-Yuri Malheiros
-
-     Integrantes
-|   Vinicius Freitas Schiavinato Olzon  |     
+     Yuri Malheiros
+|   Vinicius Freitas Schiavinato Olzon  |
 
 |   Gabriel de Lucca Vieira             |
 
 |   Jose Jesus                          |
 
-     Descrição
+### Descrição
 O projeto trata sobre o conjunto de dados das músicas mais tocadas na plataforma de streaming Spotify e seus respectivos dados nos anos entre 2010 e 2019, tal como estuda os dados de músicas lançadas entre 1950 e 2019. Esses dados são capazes de gerar diversas perguntas e respostas, o que serão convertidos para informações a partir do tratamento, análise e processamento desses dados.
        
-     Perguntas
+### Perguntas
   Qual foi o gênero musical que mais cresceu/diminuiu em questões de popularidade entre 2010-2019 e quais tendem a crescer/diminuir nos anos seguintes ?
   
   Com base no índice de popularidade das músicas, qual é o índice de correlação mais forte/fraca quando comparado com as demais características musicais ?
@@ -25,7 +21,7 @@ O projeto trata sobre o conjunto de dados das músicas mais tocadas na plataform
   
   Quais dados apresentam correlações negativas entre si ?
        
-     Datasets Utilizados
+### Datasets Utilizados
 https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019
 
 https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year
