@@ -1,7 +1,8 @@
      Projeto-Final-ICD
 Projeto da disciplina de Introdução a Ciência de Dados -
-          Professor Yuri Malheiros
-
+Professor:
+-Yuri Malheiros-
+/aur/last-modified/:packageName
      Integrantes
 |   Vinicius Freitas Schiavinato Olzon  |     
 
