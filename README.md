@@ -12,8 +12,9 @@ Projeto da disciplina de Introdução a Ciência de Dados
      O projeto tem como base dois conjuntos de dados, ambos musicais, o primeiro trata sobre músicas
      lançadas entre 1950 e 2019, as quais são tratadas e analisadas mais a fundo no projeto.
      Já o segundo conjuto de dados é sobre as músicas mais tocadas na plataforma de streaming Spotify
-     entre os anos de 2010 e 2019 (2019 incluso). Não somente, será feito o uso de alguns gráficos para exemplificar alguns dados e também para auxiliar na demonstração de algumas conclusões acerca do
-     tema.
+     entre os anos de 2010 e 2019 (2019 incluso). Não somente, será feito o uso de alguns gráficos
+     para exemplificar alguns dados e também para auxiliar na demonstração de algumas conclusões
+     acerca do tema.
      Após a análise inicial desses dados, são geradas algumas perguntas interessantes que podem ser
      respondidas após o tratamento e processamento em cima desses dados.
      
