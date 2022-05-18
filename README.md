@@ -16,7 +16,7 @@ Projeto da disciplina de Introdução a Ciência de Dados
      para exemplificar alguns dados e também para auxiliar na demonstração de algumas conclusões
      acerca do tema.
      Após a análise inicial desses dados, são geradas algumas perguntas interessantes que podem ser
-     respondidas após o tratamento e processamento em cima desses dados.
+     respondidas após o tratamento e processamento em desses dados.
      
 ## Perguntas
        * Qual foi o gênero musical mais/menos popular entre 2010-2019 e quais tendem a crescer/diminuir nos anos seguintes ?
