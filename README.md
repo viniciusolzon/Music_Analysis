@@ -21,11 +21,11 @@ Projeto da disciplina de Introdução a Ciência de Dados
 ## Perguntas
        * Qual o gênero musical mais/menos popular entre 2010-2019 e quais tendem a crescer/diminuir nos anos seguintes ?
        * Com base nos índices de romanticidade e violência verbal das músicas, qual a palavra que mais
-       tendem a aparecer nas letras dessas músicas ?
+         tende a aparecer nas letras dessas músicas ?
        * As músicas mais populares entre 2010-2019 são consideradas alegres/positivas ?
        * Como o grau de obscenidade nas letras das músicas têm se comportado ao passar das décadas ?
        * Existe uma correlação entre o quanto uma música é fácil de se dançar e o quanto ela é alegre ?
-       Se sim,como ela se comporta?
+         Se sim,como ela se comporta?
        
 ## Datasets Utilizados
 https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019
