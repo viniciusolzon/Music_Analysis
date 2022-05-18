@@ -19,7 +19,7 @@ Projeto da disciplina de Introdução a Ciência de Dados
      respondidas após o tratamento e processamento em desses dados.
      
 ## Perguntas
-       * Qual foi o gênero musical mais/menos popular entre 2010-2019 e quais tendem a crescer/diminuir nos anos seguintes ?
+       * Qual o gênero musical mais/menos popular entre 2010-2019 e quais tendem a crescer/diminuir nos anos seguintes ?
        * Com base nos índices de romanticidade e violência verbal das músicas, qual a palavra que mais
        tendem a aparecer nas letras dessas músicas ?
        * As músicas mais populares entre 2010-2019 são consideradas alegres/positivas ?
