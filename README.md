@@ -15,8 +15,9 @@
 ### Descrição:
 - O objetivo desse projeto é estudar e tirar conclusões acerca de alguns aspectos sobre a música,
   em específico sobre dois períodos distintos, um mais antigo, de 1950 até 2019, e outro mais atual, de 2010 até 2019,
-  analisando as características musicais de cada período e como elas se relacionam, quais padrões são observados e 
-  extraindo outras informações desses dados.
+  analisando as características musicais de cada período e como elas se relacionam, quais padrões são observados, 
+  fazendo previsões, e extraindo outras informações desses dados. Para tal, foi feito o uso de dois conjuntos 
+  de dados diferentes, cada um sobre um determinado período.
        
 ### Datasets Utilizados:
 https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019
