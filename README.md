@@ -1,25 +1,17 @@
-# Projeto Final da disciplina de Introdução à Ciência de Dados
-
-# Integrantes:
-### Professor: 
+# Projeto-Final-ICD
+Projeto da disciplina de Introdução à Ciência de Dados
+## Integrantes
+### Professor
      |   Yuri Malheiros                      |
-### Alunos:
+### Alunos
      |   Vinicius Freitas Schiavinato Olzon  |
      |   Gabriel de Lucca Vieira             |
-     |   Jose Jesus                          |
-# Título: (A DEFINIR)
-     
-### "Depois do silêncio, o que mais se aproxima de expressar o inexprimível é a música."
-![img](https://free4kwallpapers.com/uploads/originals/2021/01/20/music-wallpaper.jpg)
+     |   José Jesus                          |
 
-### Descrição:
-- O objetivo desse projeto é estudar e tirar conclusões acerca de alguns aspectos sobre a música,
-  em específico sobre dois períodos distintos, um mais antigo, de 1950 até 2019, e outro mais atual, de 2010 até 2019,
-  analisando as características musicais de cada período e como elas se relacionam, quais padrões são observados, 
-  fazendo previsões, e extraindo outras informações desses dados. Para tal, foi feito o uso de dois conjuntos 
-  de dados diferentes, cada um sobre um determinado período.
+## Descrição
+     Esse repositório é sobre um projeto da disciplina de Introdução à Ciência de Dados, em que é estudado sobre como características musicais se relacionam, visando a entender suas peculiaridades, e mais especificamente, sobre como as músicas desde 1950 até 2019 mudaram, assim como estudar as músicas mais populares do período de 2010 e 2019. O projeto tem o objetivo de apresentar informações acerca de assuntos específicos da música, mas que também possa agregar informações sobre a música como um todo, de tal forma que o leitor possa aprender algo de novo e interessante após a compreensão do mesmo. O repositório tem como estrutura 5 notebooks destinados ao desenvolvimento do projeto, 4 desses estão separados em dois pares, os quais foram utilizados para análise e coleta de informações acerca dos datasets, e apenas um notebook separado para o relatório final com o nome de "final_project.ipynb", o principal do repositório, que inclui os resultados e conclusões mais importantes feitos nos outros 2 pares de notebooks, não somente, nesse repositório também está incluído ambos os datasets que foram utilizados no projeto.
        
-### Datasets Utilizados:
+## Datasets Utilizados
 https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019
 
 https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year
