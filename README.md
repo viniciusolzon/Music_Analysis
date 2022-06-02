@@ -1,33 +1,15 @@
 # Projeto-Final-ICD
-Projeto da disciplina de Introdução a Ciência de Dados
+Projeto da disciplina de Introdução à Ciência de Dados
 ## Integrantes
 ### Professor
      |   Yuri Malheiros                      |
 ### Alunos
      |   Vinicius Freitas Schiavinato Olzon  |
      |   Gabriel de Lucca Vieira             |
-     |   Jose Jesus                          |
+     |   José Jesus                          |
 
 ## Descrição
-     O projeto tem como base dois conjuntos de dados, ambos musicais, o primeiro trata sobre músicas
-     lançadas entre 1950 e 2019, as quais são tratadas e analisadas mais a fundo no projeto, já
-     o segundo conjuto de dados é sobre as músicas mais tocadas na plataforma de streaming Spotify
-     entre os anos de 2010 e 2019 (2019 incluso). Não somente, será feito o uso de alguns gráficos
-     para exemplificar alguns dados e também para auxiliar na demonstração de algumas conclusões
-     acerca do tema.
-     Após a análise inicial desses dados, são geradas algumas perguntas interessantes que podem ser
-     respondidas após o tratamento e processamento em desses dados.
-     
-## Perguntas
-
-       * Qual o gênero musical mais/menos popular entre 2010 e 2019 e quais tendem a crescer/diminuir
-         nos anos seguintes ?
-       * Com base nos índices de romanticidade e violência verbal das músicas, qual a palavra que
-         mais tende a aparecer nas letras dessas músicas ?
-       * As músicas mais populares entre 2010 e 2019 são consideradas alegres/positivas ?
-       * Como o grau de obscenidade nas letras das músicas se comporta com o passar das décadas ?
-       * Existe correlação entre o quanto uma música é fácil de se dançar e o quanto ela é alegre ?
-         Se sim, como ela se comporta?
+     Esse repositório é sobre um projeto da disciplina de Introdução à Ciência de Dados, em que é estudado sobre como características musicais se relacionam, visando a entender suas peculiaridades, e mais especificamente, sobre como as músicas desde 1950 até 2019 mudaram, assim como estudar as músicas mais populares do período de 2010 e 2019. O projeto tem o objetivo de apresentar informações acerca de assuntos específicos da música, mas que também possa agregar informações sobre a música como um todo, de tal forma que o leitor possa aprender algo de novo e interessante após a compreensão do mesmo. O repositório tem como estrutura 5 notebooks destinados ao desenvolvimento do projeto, 4 desses estão separados em dois pares, os quais foram utilizados para análise e coleta de informações acerca dos datasets, e apenas um notebook separado para o relatório final com o nome de "final_project.ipynb", o principal do repositório, que inclui os resultados e conclusões mais importantes feitos nos outros 2 pares de notebooks, não somente, nesse repositório também está incluído ambos os datasets que foram utilizados no projeto.
        
 ## Datasets Utilizados
 https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019
