@@ -7,9 +7,9 @@ Projeto da disciplina de Introdução à Ciência de Dados
      |   Vinicius Freitas Schiavinato Olzon  |
      |   Gabriel de Lucca Vieira             |
      |   José Jesus                          |
-
+![img](https://free4kwallpapers.com/uploads/originals/2021/01/20/music-wallpaper.jpg)
 ## Descrição
-     Esse repositório é sobre um projeto da disciplina de Introdução à Ciência de Dados, em que é estudado sobre como características musicais se
+- Esse repositório é sobre um projeto da disciplina de Introdução à Ciência de Dados, em que é estudado sobre como características musicais se
      relacionam, visando a entender suas peculiaridades, e mais especificamente, sobre como as músicas desde 1950 até 2019 mudaram, assim como estudar as 
      músicas mais populares do período de 2010 e 2019. O projeto tem o objetivo de apresentar informações acerca de assuntos específicos da música, mas 
      que também possa agregar informações sobre a música como um todo, de tal forma que o leitor possa aprender algo de novo e interessante após a 
